@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://farfanlegal.com/sitemap.xml
